@@ -1,0 +1,9 @@
+.card{
+  width: 95%;
+  margin: 20px auto;
+}
+.searchbox {
+  margin-bottom: 18px;
+  margin-top: 16px;
+  background-color: antiquewhite;
+}
